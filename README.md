@@ -59,3 +59,16 @@ engineering workflow.
 All work here is part of a Business Analyst training program. Issues and 
 PRs are written to reflect real-world communication standards, not just 
 for the sake of the exercise.
+
+---
+
+## Scope & Timeline
+
+| Phase | What Happens | Owner |
+|---|---|---|
+| Requirements | Issue written, acceptance criteria defined | Product Associate |
+| Review | PR opened, description links back to Issue | Product Associate |
+| Sign-off | PR reviewed, approved, and merged to main | Reviewer |
+
+This structure ensures no change reaches the main branch without a documented 
+reason and a review step. That's the habit this exercise is building.
